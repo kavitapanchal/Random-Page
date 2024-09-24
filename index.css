@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    margin-top: 50px;
+  }
+  button, input {
+    padding: 10px;
+    margin: 10px;
+    background-color: rgb(133, 133, 247);
+    border-radius: 5px;
+    border: none;
+  }
+  button:hover{
+    border: 3.5px solid rgb(35, 3, 151);
+  }
+  textarea {
+    width: 400px;
+    height: 250px;
+    display: block;
+    margin: 20px auto;
+    background-color: rgb(184, 241, 241);
+  }
